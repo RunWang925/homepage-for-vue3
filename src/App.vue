@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      By 佩奇 | ©2024
+      By 佩奇 | ©2024 | 渝ICP备-2024044325号
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
