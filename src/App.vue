@@ -16,7 +16,7 @@
     <div class="main" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :duration="1000">
       <div class="info">
         <div class="header">
-          <img src="https://i.p-i.vip/43/20240913-66e403f2331ec.webp" alt="">
+          <img src="https://bitiful-img.s3.bitiful.net/2024/11/16/202411161427657.png" alt="">
         </div>
 
         <div class="infoText">
