@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      By 佩奇 | ©2024 | 渝ICP备-2024044325号
+      By 佩奇 | ©2024 | 渝ICP备-2024044325号 <b><a href="https://www.liushen.fun/" target="_blank">清羽飞扬</a></b>
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
