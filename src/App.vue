@@ -21,7 +21,7 @@
 
         <div class="infoText">
           <h1>Hi,</h1>
-          <h1>I'm <span class="qn">鹊楠</span></h1>
+          <h1>I'm <span class="qn">佩奇</span></h1>
         </div>
       </div>
 
@@ -163,7 +163,7 @@ export default {
           icon: 'icon-wodeboke',
           animate: '博客',
           color: '#fe8599',
-          href: 'https://blog.quenan.love'
+          href: 'https://hexo.814925.xyz'
         },
         {
           icon: 'icon-github',
