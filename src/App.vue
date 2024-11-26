@@ -163,13 +163,13 @@ export default {
           icon: 'icon-wodeboke',
           animate: '博客',
           color: '#fe8599',
-          href: 'https://blog.quenan.love'
+          href: 'https://hexo.814925.xyz'
         },
         {
           icon: 'icon-github',
           animate: 'Github',
           color: '#3d3d3d',
-          href: 'https://github.com/QNquenan'
+          href: 'https://github.com/RunWang925'
         },
         {
           icon: 'icon-bilibili',
@@ -181,7 +181,7 @@ export default {
           icon: 'icon-youjian1',
           animate: 'E-mail',
           color: '#FACB1E',
-          href: 'mailto:qn2987271942@outlook.com'
+          href: 'mailto:1104605271@qq.com'
         },
         {
           icon: 'icon-wangyiyunyinle1',
