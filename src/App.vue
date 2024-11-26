@@ -184,7 +184,7 @@ export default {
           href: 'mailto:1104605271@qq.com'
         },
         {
-          icon: 'icon-wangyiyunyinle1',
+          icon: 'icon-LOVEx',
           animate: '网易云',
           color: '#D81E06',
           href: 'https://music.163.com/#/playlist?id=2696501847&creatorId=1785635020'
