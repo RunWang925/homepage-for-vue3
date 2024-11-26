@@ -95,7 +95,7 @@
         <vs-alert color="#00BCD4" type="gradient" v-model:hidden-content="aboutHidden">
           <template #title>关于项目</template>
 
-          <p>你可以从这里访问 <b>我的博客、GitHub、哔哩哔哩、网易云歌单</b> 以及给我发 <b>邮件</b> ！</p>
+          <p>你可以从这里访问 <b>我的博客、薯条的博客、时光相册、Alist</b> 以及 <b>恋爱</b> ！</p>
           <p>本项目借鉴了
             <b><a href="https://pzj.us.kg/" target="_blank">pzjawa</a></b> 、
             <b><a href="https://www.liushen.fun/" target="_blank">清羽飞扬</a></b>
