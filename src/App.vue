@@ -167,25 +167,25 @@ export default {
         },
         {
           icon: 'icon-icon-test',
-          animate: '薯条是条条',
+          animate: '薯条',
           color: '#3d3d3d',
           href: 'https://github.com/RunWang925'
         },
         {
-          icon: 'icon-bokeh',
-          animate: 'BiliBili',
+          icon: 'icon-xiangce',
+          animate: '时光相册',
           color: '#0BA6D8',
           href: 'https://space.bilibili.com/495882959'
         },
         {
-          icon: 'icon-youjian1',
-          animate: 'E-mail',
+          icon: 'icon-guanyuyunguanjia',
+          animate: 'Alist',
           color: '#FACB1E',
           href: 'mailto:1104605271@qq.com'
         },
         {
           icon: 'icon-LOVEx',
-          animate: '网易云',
+          animate: '恋爱',
           color: '#D81E06',
           href: 'https://music.163.com/#/playlist?id=2696501847&creatorId=1785635020'
         },
@@ -268,6 +268,6 @@ export default {
 
 <style lang="less">
 @import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css);
-@import url(//at.alicdn.com/t/c/font_4731772_20ywkum0evwj.css); 
-/* 阿里巴巴图标库 */
+@import url(//at.alicdn.com/t/c/font_4731772_u0rj2yd9ny.css); 
+/* 阿里巴巴图标库下面一条CSS是我自己引入的 */
 </style>
