@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      <b><a href="https://814925.xyz/" target="_blank">©2024By佩奇</a></b> | <b><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备-2024044325号</a></b>
+      <b><a href="https://814925.xyz/" target="_blank">By佩奇©2024</a></b> | ©2024  | <b><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备-2024044325号</a></b>
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
@@ -166,8 +166,8 @@ export default {
           href: 'https://hexo.814925.xyz'
         },
         {
-          icon: 'icon-img',
-          animate: '相册',
+          icon: 'icon-github',
+          animate: 'Github',
           color: '#3d3d3d',
           href: 'https://github.com/RunWang925'
         },
@@ -175,7 +175,7 @@ export default {
           icon: 'icon-bilibili',
           animate: 'BiliBili',
           color: '#0BA6D8',
-          href: 'https://space.bilibili.com/318769497'
+          href: 'https://space.bilibili.com/495882959'
         },
         {
           icon: 'icon-youjian1',
@@ -187,7 +187,7 @@ export default {
           icon: 'icon-wangyiyunyinle1',
           animate: '网易云',
           color: '#D81E06',
-          href: 'https://music.163.com'
+          href: 'https://music.163.com/#/playlist?id=2696501847&creatorId=1785635020'
         },
       ],
       avaters: [
@@ -267,7 +267,6 @@ export default {
 </script>
 
 <style lang="less">
-@import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css),
-@import url(//at.alicdn.com/t/c/font_4731772_7nzq4yla5mq.css);
+@import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css);
 /* 阿里巴巴图标库 */
 </style>
