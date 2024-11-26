@@ -83,10 +83,10 @@
 
             <vs-tooltip placement="top">
               <vs-avatar color="#FF6D1A">
-                初
+                拍
               </vs-avatar>
 
-              <template #content>初七云cdn</template>
+              <template #content>又拍云cdn</template>
             </vs-tooltip>
 
           </vs-avatar-group>
@@ -169,25 +169,25 @@ export default {
           icon: 'icon-icon-test',
           animate: '薯条',
           color: '#3d3d3d',
-          href: 'https://github.com/RunWang925'
+          href: 'https://hexo.814925.xyz'
         },
         {
-          icon: 'icon-xiangce',
+          icon: 'icon-xiangce1',
           animate: '时光相册',
           color: '#0BA6D8',
-          href: 'https://space.bilibili.com/495882959'
+          href: 'https://hexo.814925.xyz'
         },
         {
           icon: 'icon-guanyuyunguanjia',
           animate: 'Alist',
           color: '#FACB1E',
-          href: 'mailto:1104605271@qq.com'
+          href: 'https://hexo.814925.xyz'
         },
         {
           icon: 'icon-LOVEx',
           animate: '恋爱',
           color: '#D81E06',
-          href: 'https://music.163.com/#/playlist?id=2696501847&creatorId=1785635020'
+          href: 'https://hexo.814925.xyz'
         },
       ],
       avaters: [
@@ -268,6 +268,6 @@ export default {
 
 <style lang="less">
 @import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css);
-@import url(//at.alicdn.com/t/c/font_4731772_u0rj2yd9ny.css); 
+@import url(//at.alicdn.com/t/c/font_4731772_7fmizsvvljw.css); 
 /* 阿里巴巴图标库下面一条CSS是我自己引入的 */
 </style>
