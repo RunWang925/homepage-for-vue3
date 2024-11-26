@@ -1,85 +1,85 @@
-<template>
-  <div>
-    <div class="bgBox" v-motion :initial="{ opacity: 0, y: 25 }" :enter="{ opacity: 1, y: 0 }" :duration="1000">
-      <img src="https://bitiful.814925.xyz/2024/11/26/202411261352443.png" alt="">
-    </div>
 
-    <div class="bgGrid">
-      <div class="Grid" v-motion :initial="{ opacity: 0, y: -25 }" :enter="{ opacity: 1, y: 0 }" :duration="1000">
-        <div class="mask"></div>
-        <div class="itemGrid-row" v-for="i in gridRows" :key="i">
-          <div class="itemGrid-cols" v-for="j in gridCols" :key="j"></div>
-        </div>
-      </div>
-    </div>
+    < 分 > ​​
+      < 分 等级 = "bgBox"    V动作 :initial= "   {    不透明 : 0 , y : 25    }   " :enter= "   {    不透明 : 1 , y : 0    }   " :duration= "   1000   "   >
+        < 信息组 SRC = “https://bitiful.814925.xyz/2024/11/26/202411261352443.png”    阿尔特 = “”  >
+       </ 分 > ​​
 
-    <div class="main" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :duration="1000">
-      <div class="info">
-        <div class="header">
-          <img src="https://bitiful.814925.xyz/2024/11/16/202411161427657.png" alt="">
-        </div>
+       < div类= "bgGrid" >
+         < 分 等级 = "Grid"     V动作 :initial= "    {     不透明 : 0 , y : - 25     }    " :enter= "    {     不透明 : 1 , y : 0     }    " :duration= "    1000    "    >
+           < 分 等级 = " mask "    >    </ 分>
+           < 分 等级 = "itemGrid-row"     电视机 = " 我 在…中 格里德罗斯 " :key= " 我 "    >
+             < 分 等级 = "itemGrid-cols"     电视机 = " j 在…中 乙二醇 " :key= " j "    >    </ 分 >
+           </ 分 > ​​
+         </ 分 > ​​
+      </ 分 > ​​
 
-        <div class="infoText">
-          <h1>Hi,</h1>
-          <h1>I'm <span class="qn">佩奇</span></h1>
-        </div>
-      </div>
+       < 分 等级 = "main"     V动作 :initial= "    {     不透明 : 0     }    " :enter= "    {     不透明 : 1     }    " :duration= "    1000    "    >
+         < div类= “信息” >
+           < div类= “标题” >
+             < 信息组 SRC = “https://bitiful.814925.xyz/2024/11/16/202411161427657.png”     阿尔特 = “”    >
+         </ 分 > ​​
 
-      <div class="typewriter">
-        <i class="iconfont icon-baojiaquotation2"></i>
-        <VueTyped :strings="typingTexts" :startDelay="300" :typeSpeed="100" :backSpeed="30" :loop="true"
-          :showCursor="true">
-        </VueTyped>
-        <i class="iconfont icon-baojiaquotation"></i>
-      </div>
+           < div类= “信息文本” >
+            < h1 > 嗨， </ h1 > ​​​
+           < h1 > 我是 < 间隔 等级 = " qn "  > 佩奇 </ 间隔 >  </ h1 > ​​​
+         </ 分 > ​​
+       </ 分 > ​​
 
-      <div class="btns">
-        <a v-for="i in btnList" :key="i.animate" :href="i.href" target="_blank">
-          <vs-button type="gradient" :color="i.color" animation-type="scale">
-            <i :class="`iconfont ${i.icon}`"></i>
+       < 分 等级 = “打字机”  >
+         < 我 等级 = "宝家水族图2"  >  </ 我 >
+          < 打字:字符串= " 打字文本 " :startDelay= "  300  " :typeSpeed= "  100  " :backSpeed= "  30  " :loop= "  真实的  "
+          :showCursor= “真”  >
+          </ 打字机 > ​​
+           < 我 等级 = "圣像-保家水转向"    >   </ 我 >
+       </ 分 > ​​
 
-            <template #animate>
-              {{ i.animate }}
-            </template>
-          </vs-button>
-        </a>
+       < div类= “btns” >
+        <a v-for = " 我 在…中 名单 " :key= " 我。 活泼的  " :href= " 我。 高参考值  "  目标 = "_blank"  > ​​​​​​​​​​​​​​​​​​ ​​​​
+           < VS按钮 类型 = "gradient" : 颜色 = " i.color "  动画类型 = "scale"  > 
+             < I:班级= "  `iconfont $ { i.icon } `  "  >  </ 我 >
 
-        <vs-button class="lastBtn" color="#457B9D" animation-type="scale" @click="active = true">
-          <i class="iconfont icon-guanyu"></i>
+              < 模板 #有动画   >
+              {{ 我。动画 }}
+              </ 模板 >
+            </ vs-按钮 >
+          </ 一 >
 
-          <template #animate>
+          < VS按钮 等级 = “lastBtn”    颜色 = “#457B9D”    动画类型 = “scale” @click = “   活跃的 = 真实的   ”   >
+            < 我 等级 = "圣像"   >   </ 我 >
+
+            < 模板 #有动画   >
             关于
-          </template>
-        </vs-button>
+            </ 模板 >
+          </ vs-按钮 >
       </div>
     </div>
 
-    <div class="footer">
-      <b><a href="https://814925.xyz/" target="_blank">By佩奇©2024</a></b> | ©2024  | <b><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备-2024044325号</a></b>
-    </div>
+     < div类= “页脚” >
+       < b > < A 高参考值 = "https://814925.xyz/"  目标 = "_blank" > By佩奇©2024 </ A > </ b > | ©2024  | < b > < A 高参考值 = "https://beian.miit.gov.cn/"  目标 = "_blank" > 渝ICP备-2024044325号 </ A > </ b >
+    </div>​​
 
-    <vs-dialog overlay-blur width="550px" not-center v-model="active">
-      <template #header>
-        <h2 class="not-margin">
+    < vs-dialog覆盖模糊 宽度= "550px" 非中心 v-model = "活动" >
+      <模板#header >
+        < h2 class = "无保证金" >
           关于本站
-        </h2>
-      </template>
+        </h2>​​
+      </模板>
 
-      <div class="con-content">
+      < div class = “con-content” >
 
-        <vs-alert color="#FE8599" type="gradient" v-model:hidden-content="techHidden">
-          <template #title>技术栈</template>
-          <p>本站基于以下技术搭建和以下服务商部署</p>
+        < vs-alert color = "#FE8599"  type = "gradient"  v-model :hidden -content = " techHidden " >
+          <模板#title >技术栈</模板>
+          < p >本站以下基于技术架构和以下服务商部署</ p >
 
-          <vs-avatar-group class="aboutAva" float max="8">
+          < vs-avatar-group class = "aboutAva"  float  max = "8" >
 
-            <vs-tooltip placement="top" v-for="i in avaters" :key="i.content">
-              <vs-avatar :color="i.color">
-                <i :class="`iconfont ${i.icon}`"></i>
-              </vs-avatar>
+            < vs-tooltipplacement = " top"  v-for = " i in avaters " : key= " i.content " >
+              < vs -avatar :color= " i.color " >
+                < i :class= " `iconfont $ { i.icon } ` " > </ i >
+              </ vs-头像>
 
-              <template #content>{{ i.content }}</template>
-            </vs-tooltip>
+              <模板#content > {{ i.内容 }} </模板>
+            </ vs-工具提示>
 
             <vs-tooltip placement="top">
               <vs-avatar color="#FF6D1A">
@@ -160,20 +160,20 @@ export default {
       ],
       btnList: [
         {
-          icon: 'icon-wodeboke',
+          icon: 'icon-bokeshangse',
           animate: '博客',
           color: '#fe8599',
           href: 'https://hexo.814925.xyz'
         },
         {
-          icon: 'icon-github',
-          animate: 'Github',
+          icon: 'icon-a-paishexiangji',
+          animate: '时光相册',
           color: '#3d3d3d',
           href: 'https://github.com/RunWang925'
         },
         {
-          icon: 'icon-bilibili',
-          animate: 'BiliBili',
+          icon: 'icon-icon-test',
+          animate: '薯条是条条',
           color: '#0BA6D8',
           href: 'https://space.bilibili.com/495882959'
         },
@@ -267,6 +267,6 @@ export default {
 </script>
 
 <style lang="less">
-@import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css);
+@import url(//at.alicdn.com/t/c/font_4731772_7nzq4yla5mq.css);
 /* 阿里巴巴图标库 */
 </style>
