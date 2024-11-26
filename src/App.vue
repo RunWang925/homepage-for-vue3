@@ -166,13 +166,13 @@ export default {
           href: 'https://hexo.814925.xyz'
         },
         {
-          icon: 'icon-a-paishexiangji',
-          animate: 'Github',
-          color: '#3d3d3d',
+          icon: 'icon-icon-test',
+          animate: '薯条是条条',
+          color: ,
           href: 'https://github.com/RunWang925'
         },
         {
-          icon: 'icon-bilibili',
+          icon: 'icon-bokeh',
           animate: 'BiliBili',
           color: '#0BA6D8',
           href: 'https://space.bilibili.com/495882959'
