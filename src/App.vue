@@ -166,8 +166,8 @@ export default {
           href: 'https://hexo.814925.xyz'
         },
         {
-          icon: 'icon-github',
-          animate: 'Github',
+          icon: 'icon-img',
+          animate: '相册',
           color: '#3d3d3d',
           href: 'https://github.com/RunWang925'
         },
@@ -175,7 +175,7 @@ export default {
           icon: 'icon-bilibili',
           animate: 'BiliBili',
           color: '#0BA6D8',
-          href: 'https://space.bilibili.com/495882959'
+          href: 'https://space.bilibili.com/318769497'
         },
         {
           icon: 'icon-youjian1',
@@ -187,7 +187,7 @@ export default {
           icon: 'icon-wangyiyunyinle1',
           animate: '网易云',
           color: '#D81E06',
-          href: 'https://music.163.com/#/playlist?id=2696501847&creatorId=1785635020'
+          href: 'https://music.163.com'
         },
       ],
       avaters: [
@@ -268,5 +268,6 @@ export default {
 
 <style lang="less">
 @import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css);
+@import url(//at.alicdn.com/t/c/font_4731772_7nzq4yla5mq.css);
 /* 阿里巴巴图标库 */
 </style>
