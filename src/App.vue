@@ -267,7 +267,7 @@ export default {
 </script>
 
 <style lang="less">
-@import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css);
+@import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css),
 @import url(//at.alicdn.com/t/c/font_4731772_7nzq4yla5mq.css);
 /* 阿里巴巴图标库 */
 </style>
