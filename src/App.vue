@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      By Quenan | ©2024
+      By <a href="https://814925.xyz/" target="_blank">佩奇</a> | ©2024
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
