@@ -1,4 +1,4 @@
-# 基于 Vue3 写的个人主页 qn大佬写的 我觉得挺好看的就用了
+# 基于 Vue3 写的个人主页 Quenan大佬写的 我觉得挺好看的就用了
 ![image](https://github.com/user-attachments/assets/69bdd7cf-60b9-48db-b5df-7f260ca7b8cc)
 
 
