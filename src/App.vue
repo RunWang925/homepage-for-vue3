@@ -55,7 +55,7 @@
     </div>
 
     <div class="footer">
-      <b><a href="https://814925.xyz/" target="_blank">By佩奇©2024</a></b> | ©2024  | <b><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备-2024044325号</a></b>
+      <b><a href="https://814925.xyz/" target="_blank">©2024By佩奇</a></b> | <b><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备-2024044325号</a></b>
     </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
@@ -160,13 +160,13 @@ export default {
       ],
       btnList: [
         {
-          icon: 'icon-bokeshangse',
+          icon: 'icon-wodeboke',
           animate: '博客',
           color: '#fe8599',
           href: 'https://hexo.814925.xyz'
         },
         {
-          icon: 'icon-github',
+          icon: 'icon-a-paishexiangji',
           animate: 'Github',
           color: '#3d3d3d',
           href: 'https://github.com/RunWang925'
@@ -267,6 +267,7 @@ export default {
 </script>
 
 <style lang="less">
-@import url(//at.alicdn.com/t/c/font_4731772_20ywkum0evwj.css);
+@import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css);
+@import url(//at.alicdn.com/t/c/font_4731772_20ywkum0evwj.css); 
 /* 阿里巴巴图标库 */
 </style>
