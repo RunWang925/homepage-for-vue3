@@ -46,11 +46,14 @@ qn大佬写的是个人主页我觉得挺好看,喜欢可以去Fork一下,然后
 
 1.先将项目Fork到自己的仓库
 ![image](https://github.com/user-attachments/assets/a7285648-b49d-480a-81c1-ce138793bac6)
+
 2.进入仓库编辑src-App.vue文件 ，基本需要的都在文件修改就可以了
 ![image](https://github.com/user-attachments/assets/eec32514-6873-4674-87a1-5e4a51192c9a)
+
 3.网址头部的图片修改，替换less 里面的favicon.ico
 ![image](https://github.com/user-attachments/assets/d381774a-ba80-4479-88c8-0f3ceb7bca3d)
 ![image](https://github.com/user-attachments/assets/6665638e-7333-4b20-8e7e-f3998e5f3666)
+
 4.使用Pages 的时候框架记得选择Vue 不然可能会部署失败。其他参数不用动直接部署即可
 ![image](https://github.com/user-attachments/assets/a47cec28-bb39-4b39-9489-6b86d5c482b8)
 
