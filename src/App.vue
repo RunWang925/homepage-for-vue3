@@ -168,7 +168,7 @@ export default {
         {
           icon: 'icon-icon-test',
           animate: '薯条是条条',
-          color: ,
+          color: '#3d3d3d',
           href: 'https://github.com/RunWang925'
         },
         {
