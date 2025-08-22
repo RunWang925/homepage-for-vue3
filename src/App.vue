@@ -56,7 +56,7 @@
 
     <div class="footer">
       <b>©2024By佩奇</b> | <b><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备-2024044325号</a></b>
-    </div>
+| <b><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备-2024044325号</a></b>    </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
       <template #header>
