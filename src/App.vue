@@ -97,13 +97,14 @@
 
           <p>你可以从这里访问 <b>我的博客、薯条的博客、时光相册、Alist、恋爱</b> ！</p>
           <p>本项目借鉴了
+            <b><a href="https://quenan.cn/" target="_blank">鹊楠</a></b> 、
             <b><a href="https://pzj.us.kg/" target="_blank">pzjawa</a></b> 、
             <b><a href="https://www.liushen.fun/" target="_blank">清羽飞扬</a></b>
             等主页，感谢他们awa
           </p>
           <p>项目已经开源：</p>
-          <p><a href="https://github.com/QNquenan/homepage-for-vue3"
-              target="_blank">https://github.com/QNquenan/homepage-for-vue3</a>
+          <p><a href="https://github.com/RunWang925/homepage-for-vue3"
+              target="_blank">https://github.com/RunWang925/homepage-for-vue3</a>
           </p>
         </vs-alert>
       </div>
