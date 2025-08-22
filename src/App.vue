@@ -56,7 +56,14 @@
 
     <div class="footer">
       <b>©2024By佩奇</b> | <b><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备-2024044325号</a></b>
-| <b><a href="https://beian.mps.gov.cn/#/query/webSearch?code=50023302000356" rel="noreferrer" target="_blank">渝公网安备50023302000356号</a></b>    </div>
+| <b>
+  <a href="https://beian.mps.gov.cn/#/query/webSearch?code=50023302000356" rel="noreferrer" target="_blank">
+    <img src="https://beian.mps.gov.cn/web/resource/img/head-logo.png" alt="备案图标" 
+         style="vertical-align: middle; margin-right: 5px; height: 1em;">
+    渝公网安备50023302000356号
+  </a>
+</b>
+        </div>
 
     <vs-dialog overlay-blur width="550px" not-center v-model="active">
       <template #header>
